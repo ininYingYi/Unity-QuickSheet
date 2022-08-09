@@ -1,0 +1,20 @@
+{
+    "name": "com.kimsama.quicksheet",
+    "version": "1.0.2",
+    "displayName": "Unity-QuickSheet",
+    "description": "Unity-QuickSheet enables you to use google and excel spreadsheet data within Unity editor. ",
+    "unity": "2021.3",
+    "hideInEditor": true,
+    "documentationUrl": "https://github.com/kimsama/Unity-QuickSheet",
+    "changelogUrl": "https://github.com/kimsama/Unity-QuickSheet",
+    "licensesUrl": "https://github.com/kimsama/Unity-QuickSheet",
+    "dependencies": {},
+    "keywords": [
+        "Excel"
+    ],
+    "author": {
+        "name": "Kim, Hyoun Woo",
+        "email": "hwpeterkim@gmail.com",
+        "url": "https://github.com/kimsama/Unity-QuickSheet"
+    }
+}
